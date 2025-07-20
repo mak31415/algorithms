@@ -1,0 +1,46 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# IDE / editors
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Test / coverage
+htmlcov/
+.coverage
+.cache/
+.tox/
+.nox/
+
+# === C / C++ ===
+*.out
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.dSYM/
