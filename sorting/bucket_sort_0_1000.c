@@ -1,6 +1,6 @@
 /*
 Bucket Sort — assumes input integers in range 0–1000.
-Based on Aha! Algorithm, Chapter 2.
+Based on Aha! Algorithm, Chapter 2.  
 */
 
 #include <stdio.h>

@@ -1,5 +1,6 @@
 /*
 Bucket Sort Algorithm in C for sorting numbers from 0 to 10
+Based on Aha! Algorithm, Chapter 2.  
 */
 #include <stdio.h>
 
